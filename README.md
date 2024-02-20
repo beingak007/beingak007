@@ -1,4 +1,4 @@
-![Header](./linkedin bg.png)
+![Header](./LinkedIn bg.png)
 <h1 align="center">Hi 👋, I'm Akash Shinge</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align="right"="coding" width="400" src=https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif>
