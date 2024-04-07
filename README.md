@@ -14,15 +14,16 @@
 Skilled in:
 
 - **Programming Languages:** Java 8, 17
-- **Frameworks and Libraries:** Spring Boot 3, Junit 5, Mockito, Spring Integration
-- **Message Brokers:** Apache Kafka
-- **Front End Technologies:** HTML5, CSS3, Angular
+- **Frameworks and Libraries:** Hibernate,Spring,Spring Boot 3,
+  SpringBoot IoC,SpringBoot AOP, SpringBoot-MVC
+
+- **Front End Technologies:** HTML5, CSS3, Angular,React,Tailwiind,Boostrap
 - **Databases: Relational-** MySQL, Oracle, H2; **NoSQL-** MongoDB
-- **Development Tools:** DBeaver, PuTTY, VSCode, IntellijIDEA, Eclipse, Git, Maven, Docker, Postman
+- **Development Tools:** DBeaver, PuTTY, VSCode, IntellijIDEA, Eclipse, Git, Maven,  Postman
 - **Operating Systems:** Linux, Windows
 - **Web Services and Cloud:** REST, Microservice Architecture with Spring Cloud, AWS Basic Proficient knowledge
 - **Software Development Methodologies:** Agile, Waterfall
-- **Collaboration:** GitHub, Jira, Confluence
+- **Collaboration:** GitHub
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
