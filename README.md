@@ -10,6 +10,20 @@
 
 - 📫 How to reach me **beingakstyle@gmail.com**
 
+  
+Skilled in:
+
+- **Programming Languages:** Java 8, 17
+- **Frameworks and Libraries:** Spring Boot 3, Junit 5, Mockito, Spring Integration
+- **Message Brokers:** Apache Kafka
+- **Front End Technologies:** HTML5, CSS3, Angular
+- **Databases: Relational-** MySQL, Oracle, H2; **NoSQL-** MongoDB
+- **Development Tools:** DBeaver, PuTTY, VSCode, IntellijIDEA, Eclipse, Git, Maven, Docker, Postman
+- **Operating Systems:** Linux, Windows
+- **Web Services and Cloud:** REST, Microservice Architecture with Spring Cloud, AWS Basic Proficient knowledge
+- **Software Development Methodologies:** Agile, Waterfall
+- **Collaboration:** GitHub, Jira, Confluence
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/akash-shinge-07726a22b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akash-shinge-07726a22b/" height="30" width="40" /></a>
