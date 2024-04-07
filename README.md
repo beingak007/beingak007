@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Full-Stack_Java_Developer**
 
-- 📫 How to reach me **beingakstyle@gmail.com**
+- 📫 How to reach me **akashshinge.sknsits.it@gmail.com**
 
   
 Skilled in:
